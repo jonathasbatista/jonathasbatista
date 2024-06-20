@@ -10,9 +10,9 @@
 
 <div align="center">
  
-🔭 Atualmente estou trabalhando em **uma empresa de logística**
+🔭 Atualmente estou buscando uma oportunidade **na área de tecnologia**
 
-🌱 Atualmente estou aprendendo **React, Node, PostgreSQL**
+🌱 Atualmente estou aprendendo **Java e PHP**
 
  </div>
  

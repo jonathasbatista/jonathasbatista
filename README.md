@@ -10,10 +10,12 @@
  
 Atualmente estou buscando uma oportunidade **na área de tecnologia**
 
+Apaixonado por aprender e resolver desafios
+
  </div>
  
 <div align="center"> 
-  <a href="mailto:jonathasgon245@gmail.com">
+  <a href="mailto:jonathasgon99@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/jonathas-batista/" target="_blank">
@@ -30,7 +32,7 @@ Atualmente estou buscando uma oportunidade **na área de tecnologia**
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,html,css,git,github,bootstrap,figma" />
-    <img src="https://skillicons.dev/icons?i=c,java,spring,javascript,jquery,php,python,mysql,postgresql,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=java,spring,c#,.net,python,javascript,jquery,php,sql,mysql,postgresql,mongodb" /><br>
 </div>
 <br/>
 

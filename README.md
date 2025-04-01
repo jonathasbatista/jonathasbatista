@@ -32,7 +32,7 @@ Apaixonado por aprender e resolver desafios
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,html,css,git,github,bitbucket,bootstrap,figma,aws,docker" />
-    <img src="https://skillicons.dev/icons?i=java,spring,csharp,dotnet,py,javascript,jquery,php,sql,mysql,postgres,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,py,javascript,jquery,php,mysql,postgres,mongodb" /><br>
 </div>
 <br/>
 

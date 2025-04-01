@@ -32,8 +32,9 @@ Atualmente estou buscando uma oportunidade **na área de tecnologia**
     <img src="https://skillicons.dev/icons?i=vscode,html,css,git,github,bootstrap,figma" />
     <img src="https://skillicons.dev/icons?i=c,java,spring,javascript,jquery,php,python,mysql,postgresql,mongodb" /><br>
 </div>
-
 <br/>
+
+<hr/>
 
 <h2 align="center">Status</h2>
 <br>

@@ -36,14 +36,6 @@ Atualmente estou buscando uma oportunidade **na área de tecnologia**
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>Minhas contribuições</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jonathasbatista/jonathasbatista/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
 <hr/>
 
 <h2 align="center">Status</h2>

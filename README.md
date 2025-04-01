@@ -31,8 +31,8 @@ Apaixonado por aprender e resolver desafios
 <h2 align="center">Linguagens - Frameworks - Ferramentas</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,git,github,bootstrap,figma" />
-    <img src="https://skillicons.dev/icons?i=java,spring,c#,.net,python,javascript,jquery,php,sql,mysql,postgresql,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,git,github,bitbucket,bootstrap,figma,aws,docker" />
+    <img src="https://skillicons.dev/icons?i=java,spring,c#,dotnet,py,javascript,jquery,php,sql,mysql,postgres,mongodb" /><br>
 </div>
 <br/>
 

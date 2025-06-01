@@ -4,35 +4,23 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Eu+sou+o+Jonathas+Batista!;" />
 </h1>
 
-<h3 align="center">Desenvolvedor de software</h3>
+<h3 align="center">Desenvolvedor Backend</h3>
 
 <div align="center">
  
-Atualmente estou buscando uma oportunidade **na área de tecnologia**
+Desenvolvedor backend apaixonado por desafios e soluções criativas. 
 
-Apaixonado por aprender e resolver desafios
+Busco minha primeira oportunidade de estágio ou trainee para aplicar meus conhecimentos e contribuir para transformar a vida das pessoas por meio da tecnologia.
 
  </div>
- 
-<div align="center"> 
-  <a href="mailto:jonathasgon99@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/jonathas-batista/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://github.com/jonathasbatista" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
 
  <hr/>
  
 <h2 align="center">Linguagens - Frameworks - Ferramentas</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,git,github,bitbucket,bootstrap,figma,aws,docker" />
-    <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,py,javascript,jquery,php,mysql,postgres,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=excel,powerbi,vscode,html,css,git,github,tailwind,aws,docker,scrum,kanban" />
+    <img src="https://skillicons.dev/icons?i=java,spring,py,pandas,numpy,matplotlib,seaborn,scikit-learn,javascript,mysql,postgres" /><br>
 </div>
 <br/>
 

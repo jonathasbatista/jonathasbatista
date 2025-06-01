@@ -20,7 +20,7 @@ Busco minha primeira oportunidade de estágio ou trainee para aplicar meus conhe
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,html,css,git,github,tailwind,aws,docker,postman" />
-    <img src="https://skillicons.dev/icons?i=java,spring,py,django,flask,fastapi,sklearn,tensorflow,opencv,javascript,mysql,postgres" /><br>
+    <img src="https://skillicons.dev/icons?i=java,spring,py,django,fastapi,sklearn,tensorflow,opencv,javascript,nodejs,express,mysql,postgres,mongodb" /><br>
 </div>
 
 <br/><br/>

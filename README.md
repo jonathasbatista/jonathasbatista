@@ -22,14 +22,5 @@ Busco minha primeira oportunidade de estágio ou trainee para aplicar meus conhe
     <img src="https://skillicons.dev/icons?i=vscode,html,css,git,github,tailwind,aws,docker,postman" />
     <img src="https://skillicons.dev/icons?i=java,spring,py,django,flask,fastapi,sklearn,tensorflow,opencv,javascript,mysql,postgres" /><br>
 </div>
-<br/>
-
-<hr/>
-
-<h2 align="center">Status</h2>
-<br>
-<div align=center>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathasbatista&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
 
 <br/><br/>

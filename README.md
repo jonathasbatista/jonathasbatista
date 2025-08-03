@@ -9,8 +9,8 @@
 <div align="center">
  
 👩‍💻 Studying Systems Analysis and Development at FAETERJ-RIO.</br>
-🌍 Advanced English and intermediate Spanish.
-📍 Based in Rio de Janeiro - RJ, Brazil.
+🌍 Advanced English and intermediate Spanish.</br>
+📍 Based in Rio de Janeiro - RJ, Brazil.</br>
 
  </div>
 
@@ -20,7 +20,7 @@
 <br/>
 <div align="center">
         <img src="https://skillicons.dev/icons?i=java,spring,html,css,javascript,nodejs,express,py,flask,postgres,mongodb" />
-        <img src="https://skillicons.dev/icons?i=git,github,aws,docker,kubernetes,rabbitmq,postman,grafana,jenkins" /><br>
+        <img src="https://skillicons.dev/icons?i=git,github,aws,docker,kubernetes,rabbitmq,postman,grafana,jenkins" /></br>
 br>
 </div>
 

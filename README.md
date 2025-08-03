@@ -5,18 +5,17 @@
 </h1>
 
 <h2 align="center">Backend Developer</h2>
-<div align="center">
+<div>
     <h4>
     👩‍💻 Studying Systems Analysis and Development at FAETERJ-RIO.<br/>
     🌍 Advanced English and intermediate Spanish.<br/>
     📍 Based in Rio de Janeiro - RJ, Brazil.
     </h4>
-    <br/>
  </div>
 
  <hr/>
  
-<h2 align="center">Languages - Frameworks - Tools</h2>
+<h2>Languages - Frameworks - Tools</h2>
 <br/>
 <div align="center">
         <img src="https://skillicons.dev/icons?i=java,spring,html,css,javascript,nodejs,express,py,flask,postgres,mongodb" />
@@ -26,13 +25,12 @@
  <hr/>
 
 <h2 align="center">Work Experience</h2>
-<div align="center">
+<div>
         <h4>
         Computer Science Teacher (Volunteer)<br/>
         Instituto Murialdo • Part-time • June 2025 – Present<br/>
         Teaching basic computer science classes for socially vulnerable children and adolescents, contributing to the promotion of youth development and empowerment through technology
         </h4>
-        <br/>
 </div>
 
-<br/><br/>
+<br/>

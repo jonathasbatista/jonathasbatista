@@ -20,8 +20,7 @@
 <br/>
 <div align="center">
         <img src="https://skillicons.dev/icons?i=java,spring,html,css,javascript,nodejs,express,py,flask,postgres,mongodb" />
-        <img src="https://skillicons.dev/icons?i=git,github,aws,docker,kubernetes,rabbitmq,postman,grafana,jenkins" /></br>
-br>
+        <img src="https://skillicons.dev/icons?i=git,github,aws,docker,kubernetes,rabbitmq,postman,grafana,jenkins" />
 </div>
 
 <br/><br/>

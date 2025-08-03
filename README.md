@@ -16,7 +16,7 @@
 <h2 align="center">Languages - Frameworks - Tools</h2>
 <br/>
 <div align="center">
-        <img src="https://skillicons.dev/icons?i=java,spring,html,css,javascript,nodejs,express,py,flask,postgres,mongodb" />
+        <img src="https://skillicons.dev/icons?i=java,spring,html,css,javascript,typescript,nodejs,py,postgres,mongodb" />
         <img src="https://skillicons.dev/icons?i=git,github,aws,docker,kubernetes,rabbitmq,postman,grafana,jenkins" />
 </div>
 

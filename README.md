@@ -8,7 +8,7 @@
 
 <div align="center">
  
-👩‍💻 Studying Systems Analysis and Development at FAETERJ-RIO.
+👩‍💻 Studying Systems Analysis and Development at FAETERJ-RIO.</br>
 🌍 Advanced English and intermediate Spanish.
 📍 Based in Rio de Janeiro - RJ, Brazil.
 

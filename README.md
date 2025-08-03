@@ -27,7 +27,7 @@
         <p>
         Computer Science Teacher (Volunteer)<br/>
         Instituto Murialdo • Part-time • June 2025 – Present<br/>
-        Teaching basic computer science classes for socially vulnerable children and adolescents, contributing to the promotion of youth development and empowerment through technology
+        Teaching basic computer science classes for socially vulnerable children and adolescents, contributing to the promotion of youth development and empowerment through technology.
         </p>
 </div>
 

@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there+👋;I'm+Jonathas;" />
 </h1>
 
-<h2 align="center">Backend Developer</h2>
+<h2 align="center">Software Developer</h2>
 <div align="center">
     <p>
     👩‍💻 Studying Systems Analysis and Development at FAETERJ-RIO.<br/>
@@ -16,7 +16,7 @@
 <h2 align="center">Languages - Frameworks - Tools</h2>
 <br/>
 <div align="center">
-        <img src="https://skillicons.dev/icons?i=java,spring,html,css,javascript,typescript,nodejs,py,postgres,mongodb" />
+        <img src="https://skillicons.dev/icons?i=java,spring,py,html,css,javascript,postgres" />
         <img src="https://skillicons.dev/icons?i=git,github,aws,docker,kubernetes,rabbitmq,postman,grafana,jenkins" />
 </div>
 

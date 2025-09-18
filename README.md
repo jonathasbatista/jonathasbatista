@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there+👋;I'm+Jonathas;" />
 </h1>
 
-<h2 align="center">Software Developer</h2>
+<h2 align="center">Software Engineer</h2>
 <div align="center">
     <p>
     👩‍💻 Studying Systems Analysis and Development at FAETERJ-RIO.<br/>
